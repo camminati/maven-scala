@@ -1,0 +1,10 @@
+syntax: glob
+*.ser
+*.class
+*~
+*.bak
+*.old
+.idea
+*.iml
+target
+build.log
